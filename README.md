@@ -21,7 +21,7 @@ For the column `Collection date` the time span of the sample acquisition has to 
 As stated above, for these metadata columns the amount of each category has to be above 10% of the amount of samples. If this criterium is met, the amount of samples per category has to be calculated. Following columns are to be aggregated in this way: `Country`, `State`, `Host diet`, `Phenotypical antimicrobial resistance`, `Sample material`, `Sample site/feature` and `Sex`.
 
 ## Species
-For species only _Homo sapiens_ is allowed to be listed. For data in from another species in the same study, make a separate submission using the suiting non-human host metadata scheme.
+For species only _Homo sapiens_ is allowed to be listed. For data from another species in the same study, make a separate submission using the suiting non-human host metadata scheme.
 
 # Getting Started with Create React App
 
