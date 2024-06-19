@@ -2,7 +2,7 @@
 > The MetaAnalyzer is still under development.
 
 # MetaAnalyzer: Aggregation Method
-To be able to submit data to the DZIF microbial OMICs database with human-derived metadata, fill out the suiting metadata scheme and aggregate the data in the way described in this section. The MetaAnalyzer is a tool to perform such an aggregation, but comes without warranty of any kind (see [License](License)).
+To be able to submit data to the DZIF microbial OMICs database with human-derived metadata, fill out the suiting metadata scheme and aggregate the data in the way described in this section. The MetaAnalyzer is a tool to perform such an aggregation, but comes without warranty of any kind (see [LICENSE](LICENSE)).
 
 General requirements:
 - The number of samples has to be greater than 25. Otherwise the metadata cannot be used by the DZIF microbial OMICs DB.
