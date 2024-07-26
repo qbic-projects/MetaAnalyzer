@@ -1,0 +1,16 @@
+.excel-reader {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin: 10px 20px;
+  }
+  
+  .excel-reader p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #666;
+  }
+  
