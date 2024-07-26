@@ -23,6 +23,9 @@ As stated above, for these metadata columns the amount of each category has to b
 ## Species
 For species only _Homo sapiens_ is allowed to be listed. For data from another species in the same study, make a separate submission using the suiting non-human host metadata scheme.
 
+# Funding
+This work was funded by the German Center for Infection Research.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
