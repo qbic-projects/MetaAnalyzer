@@ -7,9 +7,10 @@ export async function performAnalysis(data) {
     "Host weight"
   ];
   const listForUniqueValues = [
-    "Collected by", 
-    "Disorders", 
-    "Host name"
+    "Collected by",
+    "Disorders",
+    "Host name",
+    "Chemical exposure"
   ];
   const listForOccurencesOfValues = [
     "Country",
@@ -18,7 +19,7 @@ export async function performAnalysis(data) {
     "Sample material",
     "Sex",
     "Host diet",
-    "Phenotypical antimicrobial resistance",
+    "Phenotypical antimicrobial resistance"
   ];
   const listForTimeSpan = ["Collection Date"];
   // Process data
